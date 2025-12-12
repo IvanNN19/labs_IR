@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O2 -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/stemmer.dir/src/stemmer/stemmer.cpp.o CMakeFiles/stemmer.dir/src/stemmer/main.cpp.o -o stemmer  libcommon.a

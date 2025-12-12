@@ -1,0 +1,12 @@
+/Users/ipklimov52/Desktop/IR/build/CMakeFiles/common.dir
+/Users/ipklimov52/Desktop/IR/build/CMakeFiles/crawler.dir
+/Users/ipklimov52/Desktop/IR/build/CMakeFiles/tokenizer.dir
+/Users/ipklimov52/Desktop/IR/build/CMakeFiles/stemmer.dir
+/Users/ipklimov52/Desktop/IR/build/CMakeFiles/zipf_analyzer.dir
+/Users/ipklimov52/Desktop/IR/build/CMakeFiles/build_index.dir
+/Users/ipklimov52/Desktop/IR/build/CMakeFiles/bool_search.dir
+/Users/ipklimov52/Desktop/IR/build/CMakeFiles/test_tokenizer.dir
+/Users/ipklimov52/Desktop/IR/build/CMakeFiles/test_stemmer.dir
+/Users/ipklimov52/Desktop/IR/build/CMakeFiles/test.dir
+/Users/ipklimov52/Desktop/IR/build/CMakeFiles/edit_cache.dir
+/Users/ipklimov52/Desktop/IR/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O2 -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/bool_search.dir/src/index/inverted_index.cpp.o CMakeFiles/bool_search.dir/src/search/bool_search.cpp.o CMakeFiles/bool_search.dir/src/search/main.cpp.o -o bool_search  libcommon.a

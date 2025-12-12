@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O2 -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/build_index.dir/src/index/inverted_index.cpp.o CMakeFiles/build_index.dir/src/index/main.cpp.o -o build_index  libcommon.a

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O2 -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/crawler.dir/src/crawler/crawler.cpp.o CMakeFiles/crawler.dir/src/crawler/main.cpp.o -o crawler  libcommon.a
